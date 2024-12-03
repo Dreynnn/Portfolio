@@ -1,6 +1,6 @@
 import medtrack from "../assets/medtrack.png"
 import ishoppe from "../assets/ishoppe.png"
-import Pokedex from "../assets/Pokedex.png"
+
 import './Projects.css'; 
 
 const projects = [
@@ -21,14 +21,7 @@ const projects = [
     link: 'https://ishoppe.netlify.app/',
     source: 'https://github.com/Dreynnn/FakeStore-React',
   },
-  {
-    id: 3,
-    title: 'Pokedex',
-    description: 'HTML/CSS/Javascript/ReactJS',
-    image: Pokedex, 
-    link: 'https://drynpokedex.netlify.app/',
-    source: 'https://github.com/Dreynnn/Pokedex',
-  },
+  
 ];
 
 const Projects = () => {
