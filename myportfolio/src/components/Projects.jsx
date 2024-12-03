@@ -1,6 +1,6 @@
 import medtrack from "../assets/medtrack.png"
 import ishoppe from "../assets/ishoppe.png"
-import Pokedex from "../assets/pokedex.png"
+import Pokedex from "../assets/Pokedex.png"
 import './Projects.css'; 
 
 const projects = [
@@ -26,7 +26,7 @@ const projects = [
     title: 'Pokedex',
     description: 'HTML/CSS/Javascript/ReactJS',
     image: Pokedex, 
-    link: 'https://dryn-pokedex.netlify.app/',
+    link: 'https://drynpokedex.netlify.app/',
     source: 'https://github.com/Dreynnn/Pokedex',
   },
 ];
