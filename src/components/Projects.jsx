@@ -18,8 +18,8 @@ const projects = [
     title: 'Fake Store with API',
     description: 'HTML/CSS/Javascript/ReactJS',
     image: ishoppe, 
-    link: 'https://ishoppe.netlify.app/',
-    source: 'https://github.com/Dreynnn/FakeStore-React',
+    link: 'https://fake-storereact.netlify.app/',
+    source: 'https://github.com/Dreynnn/fakestore',
   },
   {
     id: 3,
